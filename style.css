@@ -66,18 +66,14 @@ footer {
   background-color: #aaa;
 }
 @media screen and (max-width:768px) {
-  width:100%;
-  height: 100%;}
- main { 
-   display: block;}
+ main {
+   display: block;
+
+ }
    .step-box {
   width: 90%;
   margin: 50px;
 　margin-top: 20px;
-  padding: 20px;   
+  padding: 20px;
    }
-   @media screen and (max-width:768px) {
-  .social i {
-    color: red;
   }
-}
